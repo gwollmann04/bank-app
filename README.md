@@ -6,6 +6,14 @@ O projeto foi desenvolvido com foco em **arquitetura escalável**, **boas práti
 
 ---
 
+## Acesso à aplicação
+
+Para acessar a plataforma, utilize o seguinte usuário:
+
+- **Username:** `teste123`
+
+> Obs: A autenticação é simulada (mock), não sendo necessário senha.
+
 ## Tecnologias utilizadas
 
 - React 19
